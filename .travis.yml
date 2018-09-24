@@ -3,4 +3,6 @@ jdk:
   - oraclejdk8
 before_install:
   - gradle wrapper
-script: ./gradlew clean build runInParallel
+script: 
+  - ./gradlew clean build runInSequence
+  - ./gradlew clean build runInParallel
