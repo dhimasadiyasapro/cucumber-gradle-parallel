@@ -1,7 +1,7 @@
 Cucumber Gradle Parallel Example
 ===============================
 
-[![Build Status](https://travis-ci.org/dhimasadiyasapro/cucumber-gradle-parallel.svg?branch=master)](https://travis-ci.org/dhimasadiyasapro/cucumber-gradle-parallel)
+[![Build Status](https://travis-ci.com/dhimasadiyasapro/cucumber-gradle-parallel.svg?branch=master)](https://travis-ci.com/dhimasadiyasapro/cucumber-gradle-parallel)
 
 ![alt tag](https://raw.githubusercontent.com/camiloribeiro/cucumber-gradle-parallel/master/cucumber.png)
 
