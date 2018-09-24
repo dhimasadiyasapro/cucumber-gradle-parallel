@@ -1,7 +1,7 @@
 Cucumber Gradle Parallel Example
 ===============================
 
-[![Build Status](https://travis-ci.org/camiloribeiro/cucumber-gradle-parallel.svg?branch=master)](https://travis-ci.org/camiloribeiro/cucumber-gradle-parallel)
+[![Build Status](https://travis-ci.org/dhimasadiyasapro/cucumber-gradle-parallel.svg?branch=master)](https://travis-ci.org/dhimasadiyasapro/cucumber-gradle-parallel)
 
 ![alt tag](https://raw.githubusercontent.com/camiloribeiro/cucumber-gradle-parallel/master/cucumber.png)
 
@@ -50,8 +50,6 @@ Check the report in the output.
 Add a file:// + output in your browser, example file:///Users/camilo/cucumber-gradle-parallel/build/reports/cucumber/cucumber-html-reports/overview-features.html
 
 Have fun.
-
-Use by Me
 
 LICENSE
 =======
